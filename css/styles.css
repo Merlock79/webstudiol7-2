@@ -1,0 +1,14 @@
+:root {
+  --primaryFooterColor: black;
+  --buttonColor: blue;
+  --sectionColor: black;
+}
+#footer {
+  color: var(--primaryFooterColor);
+}
+#thebutton {
+  color: var(--buttonColor);
+}
+#section1 {
+  color: var(--sectionColor);
+}
